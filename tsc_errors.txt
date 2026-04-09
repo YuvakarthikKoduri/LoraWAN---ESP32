@@ -1,0 +1,1 @@
+components/ExternalLink.tsx(13,7): error TS2578: Unused '@ts-expect-error' directive.
