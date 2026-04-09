@@ -115,4 +115,4 @@ For release distribution, generate a signed release APK/AAB from Android Gradle 
 
 ---
 
-If you want, we can also add screenshots and a short demo section (`Web`, `App`, `ESP32`) to this README.
+
